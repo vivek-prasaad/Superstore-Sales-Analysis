@@ -2,48 +2,61 @@
 
 ## Project Overview
 
-This project analyzes historical retail sales data from a Superstore dataset to uncover insights related to revenue trends, product performance, profitability, and regional distribution.
+This project presents an interactive sales analysis dashboard built using the Superstore retail dataset. The objective was to analyze revenue trends, product performance, and regional distribution to support data-driven decision-making.
 
-Python was used for data cleaning and exploratory analysis, and Tableau was used to build an interactive dashboard for business decision-making.
+The dashboard was developed in Tableau after performing structured data preparation and exploratory analysis.
 
 ---
 
 ## Project Objective
 
-- Analyze sales and profit trends over time  
-- Identify top-performing and underperforming product categories  
+- Analyze historical sales performance  
+- Identify profitable and loss-making product segments  
 - Evaluate regional sales distribution  
-- Deliver actionable insights through interactive visualizations  
+- Visualize monthly revenue trends  
+- Deliver actionable business insights through interactive dashboards  
 
 ---
 
 ## Tools and Technologies
 
-- Python (Pandas, NumPy) – Data cleaning and transformation  
-- Matplotlib – Exploratory trend visualization  
-- Tableau – Interactive dashboard development  
-- Jupyter Notebook – Analysis environment  
+- Tableau – Dashboard development and data visualization  
+- Microsoft Excel – Initial data exploration and validation  
 
 ---
 
 ## Dataset Description
 
-The dataset includes retail transaction records containing:
+The dataset contains retail transaction records including:
 
 - Order Date and Ship Date  
 - Sales, Profit, Quantity, Discount  
 - Category and Sub-Category  
 - Region, State, and City  
-- Customer and Product details  
+- Customer and Product information  
+
+---
+
+## Dashboard Features
+
+- Monthly Sales Trend Analysis  
+- Sub-Category Sales Comparison  
+- Region-wise Sales Distribution  
+- Geographic Sales Map  
+- Product-Level Performance Overview  
+
+The dashboard supports interactive filtering to explore performance across categories and regions.
 
 ---
 
 ## Key Insights
 
-- The West region generated the highest overall sales  
-- Some sub-categories show high revenue but lower profitability  
-- Monthly sales trends indicate noticeable fluctuations  
-- Sales and quantity are positively correlated  
+- The West region generated the highest total sales.  
+- Certain sub-categories show strong revenue contribution but lower profitability.  
+- Sales performance varies across months, indicating seasonal fluctuations.  
+- Profit margins differ significantly across product segments.  
+
+---
 
 ---
 
@@ -51,10 +64,10 @@ The dataset includes retail transaction records containing:
 
 This project demonstrates the ability to:
 
-- Perform end-to-end data analysis  
-- Clean and transform raw datasets  
+- Analyze retail sales data  
 - Extract meaningful business insights  
-- Develop interactive dashboards for stakeholders  
+- Design structured and interactive dashboards  
+- Communicate findings effectively through visualization  
 
 ---
 
