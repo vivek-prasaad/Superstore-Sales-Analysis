@@ -1,102 +1,60 @@
-Project Overview
+# Superstore Sales Analysis Dashboard
+
+## Project Overview
 
 This project analyzes historical retail sales data from a Superstore dataset to uncover insights related to revenue trends, product performance, profitability, and regional distribution.
 
-The analysis was performed using Python for data preprocessing and Tableau for building an interactive dashboard to support data-driven business decisions.
+Python was used for data cleaning and exploratory analysis, and Tableau was used to build an interactive dashboard for business decision-making.
 
-Project Objective
+---
 
-Analyze sales and profit trends over time
+## Project Objective
 
-Identify top-performing and underperforming product categories
+- Analyze sales and profit trends over time  
+- Identify top-performing and underperforming product categories  
+- Evaluate regional sales distribution  
+- Deliver actionable insights through interactive visualizations  
 
-Evaluate regional sales distribution
+---
 
-Provide actionable business insights through interactive visualizations
+## Tools and Technologies
 
-Tools & Technologies Used
+- Python (Pandas, NumPy) – Data cleaning and transformation  
+- Matplotlib – Exploratory trend visualization  
+- Tableau – Interactive dashboard development  
+- Jupyter Notebook – Analysis environment  
 
-Python (Pandas, NumPy) – Data cleaning & transformation
+---
 
-Matplotlib – Exploratory trend visualization
+## Dataset Description
 
-Tableau – Interactive dashboard development
+The dataset includes retail transaction records containing:
 
-Jupyter Notebook – Analysis environment
+- Order Date and Ship Date  
+- Sales, Profit, Quantity, Discount  
+- Category and Sub-Category  
+- Region, State, and City  
+- Customer and Product details  
 
-Dataset Information
+---
 
-The dataset contains retail transaction data including:
+## Key Insights
 
-Order Date & Ship Date
+- The West region generated the highest overall sales  
+- Some sub-categories show high revenue but lower profitability  
+- Monthly sales trends indicate noticeable fluctuations  
+- Sales and quantity are positively correlated  
 
-Sales, Profit, Quantity, Discount
+---
 
-Category & Sub-Category
-
-Region, State, City
-
-Customer & Product details
-
-Key Analysis Performed
-
-Cleaned missing values and standardized date formats
-
-Converted order dates into monthly periods for time-series analysis
-
-Aggregated monthly sales to identify revenue trends
-
-Calculated statistical metrics (mean, standard deviation)
-
-Performed correlation analysis between Sales, Profit, and Quantity
-
-Analyzed sub-category performance
-
-Evaluated region-wise sales distribution
-
-Dashboard Features
-
-The Tableau dashboard includes:
-
-Monthly Sales Trend Line
-
-Sub-Category Sales Comparison
-
-Product-Level Performance (Bubble Chart)
-
-Region-wise Sales Distribution
-
-Geographic Sales Map
-
-The dashboard allows interactive filtering to explore performance across categories and regions.
-
-Key Insights
-
-The West region generated the highest overall sales.
-
-Certain sub-categories contribute high revenue but show lower profitability.
-
-Sales display noticeable monthly fluctuations.
-
-Sales and quantity are positively correlated, but profit varies depending on pricing and discount levels.
-
-Dashboard Preview
-
-(Add your Tableau dashboard screenshot here)
-
-Business Value
+## Business Value
 
 This project demonstrates the ability to:
 
-Perform end-to-end data analysis
+- Perform end-to-end data analysis  
+- Clean and transform raw datasets  
+- Extract meaningful business insights  
+- Develop interactive dashboards for stakeholders  
 
-Clean and transform raw datasets
+---
 
-Extract meaningful business insights
-
-Build interactive dashboards for stakeholders
-
-
-Vivek
-Aspiring Data Analyst
-Focused on data cleaning, analysis, visualization, and business insights.
